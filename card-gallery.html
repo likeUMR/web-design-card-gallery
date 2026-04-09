@@ -32,6 +32,30 @@
     .page-sub     { font-size: 12px; color: rgba(255,255,255,0.38); margin-top: 3px; font-family: 'IBM Plex Mono', monospace; }
     .page-meta    { font-size: 11px; color: rgba(255,255,255,0.2); font-family: 'IBM Plex Mono', monospace; text-align: right; line-height: 1.7; }
 
+    /* ── GITHUB STAR BUTTON ── */
+    .gh-star-btn {
+      display: inline-flex; align-items: center; gap: 7px;
+      padding: 7px 14px; border-radius: 9px;
+      border: 1px solid rgba(255,255,255,0.14);
+      background: rgba(255,255,255,0.05);
+      color: rgba(255,255,255,0.72); font-size: 12px; font-weight: 600;
+      text-decoration: none; transition: all 0.15s; white-space: nowrap;
+      font-family: 'DM Sans', sans-serif;
+    }
+    .gh-star-btn:hover {
+      background: rgba(255,255,255,0.1);
+      border-color: rgba(255,255,255,0.28);
+      color: #fff;
+    }
+    .gh-star-btn .gh-icon { flex-shrink: 0; opacity: 0.7; transition: opacity 0.15s; }
+    .gh-star-btn:hover .gh-icon { opacity: 1; }
+    .gh-star-sep { color: rgba(255,255,255,0.18); margin: 0 1px; }
+    .gh-star-count {
+      font-family: 'IBM Plex Mono', monospace; font-size: 11px;
+      background: rgba(255,255,255,0.08); padding: 1px 6px; border-radius: 4px;
+      min-width: 22px; text-align: center;
+    }
+
     /* ── FILTER BAR ── */
     .filter-bar {
       max-width: 1480px;
@@ -168,7 +192,17 @@
     <div class="page-title">网页色卡库</div>
     <div class="page-sub">Web Design Card Gallery · 58 brands · LLM-extracted design tokens</div>
   </div>
-  <div class="page-meta">design.directory analysis<br>v2.0 · auto-generated</div>
+  <a href="https://github.com/likeUMR/web-design-card-gallery"
+     target="_blank" rel="noopener"
+     class="gh-star-btn"
+     title="如果这个工具对你有帮助，请给个 Star ⭐">
+    <svg class="gh-icon" width="15" height="15" viewBox="0 0 16 16" fill="currentColor">
+      <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+    </svg>
+    <span>Star on GitHub</span>
+    <span class="gh-star-sep">|</span>
+    <span class="gh-star-count" id="ghStarCount">…</span>
+  </a>
 </div>
 
 <!-- FILTER BAR -->
@@ -2346,6 +2380,24 @@ document.querySelector('.filter-bar').addEventListener('click', e => {
   badge.textContent = visible;
   empty.style.display = visible === 0 ? 'block' : 'none';
 });
+
+// ── GITHUB STAR COUNT (live) ──────────────────────────────────────────────────
+(function () {
+  const el = document.getElementById('ghStarCount');
+  if (!el) return;
+  fetch('https://api.github.com/repos/likeUMR/web-design-card-gallery', {
+    headers: { Accept: 'application/vnd.github.v3+json' }
+  })
+    .then(r => r.json())
+    .then(d => {
+      if (typeof d.stargazers_count === 'number') {
+        el.textContent = d.stargazers_count >= 1000
+          ? (d.stargazers_count / 1000).toFixed(1) + 'k'
+          : d.stargazers_count;
+      }
+    })
+    .catch(() => { el.textContent = '★'; });
+})();
 </script>
 
 </body>
