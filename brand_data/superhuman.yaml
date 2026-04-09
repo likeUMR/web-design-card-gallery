@@ -1,0 +1,36 @@
+id: superhuman
+name: Superhuman
+category: 生产力工具
+filterGroup: saas
+
+theme: light
+
+bg: "#ffffff"
+text: "#292827"
+accent: "#cbb7fb"
+surface: "#e9e5dd"
+border: "#dcd7d3"
+neutral: "#714cb6"
+accent2: "#1b1938"
+
+colors:
+  - "#ffffff"
+  - "#292827"
+  - "#cbb7fb"
+  - "#e9e5dd"
+  - "#714cb6"
+  - "#1b1938"
+
+font: "Super Sans VF"
+fontProxy: "system-ui, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue"
+headingWeight: 460
+headingSpacing: "-1.32px"
+
+btnRadius: "8px"
+boxRadius: "16px"
+shadow: "none"
+btnColor: "#292827"
+
+tags:
+  - "极简禅意"
+  - "暖系工艺"

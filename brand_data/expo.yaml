@@ -1,0 +1,36 @@
+id: expo
+name: Expo
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#f0f0f3"
+text: "#1c2024"
+accent: "#000000"
+surface: "#ffffff"
+border: "#e0e1e6"
+neutral: "#60646c"
+accent2: "#0d74ce"
+
+colors:
+  - "#f0f0f3"
+  - "#1c2024"
+  - "#000000"
+  - "#ffffff"
+  - "#60646c"
+  - "#0d74ce"
+
+font: "Inter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 700
+headingSpacing: "-3px"
+
+btnRadius: "9999px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.08) 0px 3px 6px, rgba(0,0,0,0.07) 0px 2px 4px"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

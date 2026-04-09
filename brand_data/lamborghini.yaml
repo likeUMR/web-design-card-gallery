@@ -1,0 +1,36 @@
+id: lamborghini
+name: Lamborghini
+category: 电动汽车
+filterGroup: auto
+
+theme: dark
+
+bg: "#000000"
+text: "#FFFFFF"
+accent: "#FFC000"
+surface: "#202020"
+border: "#FFFFFF"
+neutral: "#7D7D7D"
+accent2: "#29ABE2"
+
+colors:
+  - "#000000"
+  - "#FFFFFF"
+  - "#FFC000"
+  - "#202020"
+  - "#7D7D7D"
+  - "#29ABE2"
+
+font: "LamboType"
+fontProxy: "'Roboto', sans-serif"
+headingWeight: 400
+headingSpacing: "normal"
+
+btnRadius: "0px"
+boxRadius: "0px"
+shadow: "none"
+btnColor: "#000000"
+
+tags:
+  - "极简禅意"
+  - "戏剧张力"

@@ -1,0 +1,36 @@
+id: nvidia
+name: NVIDIA
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#000000"
+text: "#ffffff"
+accent: "#76b900"
+surface: "#1a1a1a"
+border: "#5e5e5e"
+neutral: "#a7a7a7"
+accent2: "#bff230"
+
+colors:
+  - "#000000"
+  - "#ffffff"
+  - "#76b900"
+  - "#1a1a1a"
+  - "#a7a7a7"
+  - "#bff230"
+
+font: "NVIDIA-EMEA"
+fontProxy: "Arial, Helvetica, sans-serif"
+headingWeight: 700
+headingSpacing: "normal"
+
+btnRadius: "2px"
+boxRadius: "2px"
+shadow: "rgba(0, 0, 0, 0.3) 0px 0px 5px 0px"
+btnColor: "#000000"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

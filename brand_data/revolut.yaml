@@ -1,0 +1,36 @@
+id: revolut
+name: Revolut
+category: 金融科技
+filterGroup: fin
+
+theme: light
+
+bg: "#ffffff"
+text: "#191c1f"
+accent: "#494fdf"
+surface: "#f4f4f4"
+border: "#c9c9cd"
+neutral: "#8d969e"
+accent2: "#00a87e"
+
+colors:
+  - "#ffffff"
+  - "#191c1f"
+  - "#494fdf"
+  - "#f4f4f4"
+  - "#8d969e"
+  - "#00a87e"
+
+font: "Aeonik Pro"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 500
+headingSpacing: "-2.72px"
+
+btnRadius: "9999px"
+boxRadius: "20px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

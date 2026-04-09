@@ -1,0 +1,36 @@
+id: hashicorp
+name: HashiCorp
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#15181e"
+text: "#efeff1"
+accent: "#1060ff"
+surface: "#0d0e12"
+border: "rgba(97, 104, 117, 0.4)"
+neutral: "#656a76"
+accent2: "#7b42bc"
+
+colors:
+  - "#15181e"
+  - "#efeff1"
+  - "#1060ff"
+  - "#0d0e12"
+  - "#656a76"
+  - "#7b42bc"
+
+font: "HashiCorp Sans"
+fontProxy: "system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial"
+headingWeight: 600
+headingSpacing: "-0.42px"
+
+btnRadius: "5px"
+boxRadius: "8px"
+shadow: "rgba(97, 104, 117, 0.05) 0px 1px 1px, rgba(97, 104, 117, 0.05) 0px 2px 2px"
+btnColor: "#d5d7db"
+
+tags:
+  - "冷工程美学"
+  - "开放社区感"

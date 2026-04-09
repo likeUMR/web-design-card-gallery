@@ -1,0 +1,36 @@
+id: minimax
+name: MiniMax
+category: AI平台
+filterGroup: AI
+
+theme: light
+
+bg: "#ffffff"
+text: "#222222"
+accent: "#1456f0"
+surface: "#f0f0f0"
+border: "#e5e7eb"
+neutral: "#8e8e93"
+accent2: "#ea5ec1"
+
+colors:
+  - "#ffffff"
+  - "#222222"
+  - "#1456f0"
+  - "#f0f0f0"
+  - "#8e8e93"
+  - "#ea5ec1"
+
+font: "DM Sans, Outfit, Poppins, Roboto"
+fontProxy: "'DM Sans', sans-serif"
+headingWeight: 500
+headingSpacing: "-1.4px"
+
+btnRadius: "9999px"
+boxRadius: "20px"
+shadow: "rgba(44, 30, 116, 0.16) 0px 0px 15px"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

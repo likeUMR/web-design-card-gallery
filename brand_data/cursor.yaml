@@ -1,0 +1,36 @@
+id: cursor
+name: Cursor
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#f2f1ed"
+text: "#26251e"
+accent: "#f54e00"
+surface: "#e6e5e0"
+border: "oklab(0.263084 -0.00230259 0.0124794 / 0.1)"
+neutral: "rgba(38, 37, 30, 0.55)"
+accent2: "#c08532"
+
+colors:
+  - "#f2f1ed"
+  - "#26251e"
+  - "#f54e00"
+  - "#e6e5e0"
+  - "rgba(38, 37, 30, 0.55)"
+  - "#c08532"
+
+font: "CursorGothic, jjannon, berkeleyMono"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-2.16px"
+
+btnRadius: "8px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.14) 0px 28px 70px, rgba(0,0,0,0.1) 0px 14px 32px"
+btnColor: "#26251e"
+
+tags:
+  - "暖系工艺"
+  - "极简禅意"

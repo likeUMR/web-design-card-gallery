@@ -1,0 +1,36 @@
+id: airtable
+name: Airtable
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#ffffff"
+text: "#181d26"
+accent: "#1b61c9"
+surface: "#f8fafc"
+border: "#e0e2e6"
+neutral: "#333333"
+accent2: "#254fad"
+
+colors:
+  - "#ffffff"
+  - "#181d26"
+  - "#1b61c9"
+  - "#f8fafc"
+  - "#333333"
+  - "#254fad"
+
+font: "Haas"
+fontProxy: "system-ui"
+headingWeight: 400
+headingSpacing: "0.18px"
+
+btnRadius: "12px"
+boxRadius: "16px"
+shadow: "rgba(45,127,249,0.28) 0px 1px 3px"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

@@ -1,0 +1,36 @@
+id: linear.app
+name: Linear
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#08090a"
+text: "#f7f8f8"
+accent: "#5e6ad2"
+surface: "#191a1b"
+border: "rgba(255,255,255,0.08)"
+neutral: "#8a8f98"
+accent2: "#7170ff"
+
+colors:
+  - "#08090a"
+  - "#f7f8f8"
+  - "#5e6ad2"
+  - "#191a1b"
+  - "#8a8f98"
+  - "#7170ff"
+
+font: "Inter Variable"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 510
+headingSpacing: "-1.056px"
+
+btnRadius: "6px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.2) 0px 0px 0px 1px"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

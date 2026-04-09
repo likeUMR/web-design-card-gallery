@@ -1,0 +1,36 @@
+id: framer
+name: Framer
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#000000"
+text: "#ffffff"
+accent: "#0099ff"
+surface: "#090909"
+border: "rgba(0, 153, 255, 0.15)"
+neutral: "#a6a6a6"
+accent2: "rgba(255, 255, 255, 0.1)"
+
+colors:
+  - "#000000"
+  - "#ffffff"
+  - "#0099ff"
+  - "#090909"
+  - "#a6a6a6"
+  - "rgba(255, 255, 255, 0.1)"
+
+font: "GT Walsheim, Inter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 500
+headingSpacing: "-5.5px"
+
+btnRadius: "100px"
+boxRadius: "12px"
+shadow: "rgba(255, 255, 255, 0.1) 0px 0.5px 0px 0.5px, rgba(0, 0, 0, 0.25) 0px 10px 30px"
+btnColor: "#000000"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

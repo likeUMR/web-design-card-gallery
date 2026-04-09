@@ -1,0 +1,36 @@
+id: replicate
+name: Replicate
+category: AI平台
+filterGroup: dev
+
+theme: light
+
+bg: "#ffffff"
+text: "#202020"
+accent: "#ea2804"
+surface: "#fcfcfc"
+border: "#202020"
+neutral: "#646464"
+accent2: "#2b9a66"
+
+colors:
+  - "#ffffff"
+  - "#202020"
+  - "#ea2804"
+  - "#fcfcfc"
+  - "#646464"
+  - "#2b9a66"
+
+font: "rb-freigeist-neue, basier-square, jetbrains-mono"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 700
+headingSpacing: "-1.8px"
+
+btnRadius: "9999px"
+boxRadius: "9999px"
+shadow: "none"
+btnColor: "#fcfcfc"
+
+tags:
+  - "开放社区感"
+  - "极简禅意"

@@ -1,0 +1,36 @@
+id: spacex
+name: SpaceX
+category: 航空航天
+filterGroup: auto
+
+theme: dark
+
+bg: "#000000"
+text: "#f0f0fa"
+accent: "#f0f0fa"
+surface: "rgba(240, 240, 250, 0.1)"
+border: "rgba(240, 240, 250, 0.35)"
+neutral: "rgba(240, 240, 250, 0.5)"
+accent2: "#f0f0fa"
+
+colors:
+  - "#000000"
+  - "#f0f0fa"
+  - "#f0f0fa"
+  - "rgba(240, 240, 250, 0.1)"
+  - "rgba(240, 240, 250, 0.5)"
+  - "#f0f0fa"
+
+font: "D-DIN"
+fontProxy: "'Arial', sans-serif"
+headingWeight: 700
+headingSpacing: "0.96px"
+
+btnRadius: "32px"
+boxRadius: "4px"
+shadow: "none"
+btnColor: "#f0f0fa"
+
+tags:
+  - "极简禅意"
+  - "三字体编排"

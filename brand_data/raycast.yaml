@@ -1,0 +1,36 @@
+id: raycast
+name: Raycast
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#07080a"
+text: "#f9f9f9"
+accent: "#FF6363"
+surface: "#101111"
+border: "#252829"
+neutral: "#9c9c9d"
+accent2: "#55b3ff"
+
+colors:
+  - "#07080a"
+  - "#f9f9f9"
+  - "#FF6363"
+  - "#101111"
+  - "#9c9c9d"
+  - "#55b3ff"
+
+font: "Inter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 600
+headingSpacing: "0.2px"
+
+btnRadius: "86px"
+boxRadius: "12px"
+shadow: "rgba(0, 0, 0, 0.28) 0px 1.189px 2.377px"
+btnColor: "#18191a"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

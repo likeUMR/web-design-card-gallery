@@ -1,0 +1,36 @@
+id: pinterest
+name: Pinterest
+category: 社交媒体
+filterGroup: consumer
+
+theme: light
+
+bg: "#ffffff"
+text: "#211922"
+accent: "#e60023"
+surface: "#e5e5e0"
+border: "#91918c"
+neutral: "#62625b"
+accent2: "#103c25"
+
+colors:
+  - "#ffffff"
+  - "#211922"
+  - "#e60023"
+  - "#e5e5e0"
+  - "#62625b"
+  - "#103c25"
+
+font: "Pin Sans"
+fontProxy: "system-ui"
+headingWeight: 600
+headingSpacing: "-1.2px"
+
+btnRadius: "16px"
+boxRadius: "20px"
+shadow: "none"
+btnColor: "#000000"
+
+tags:
+  - "暖系工艺"
+  - "摄影主导"

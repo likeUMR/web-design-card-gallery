@@ -1,0 +1,36 @@
+id: clickhouse
+name: ClickHouse
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#000000"
+text: "#ffffff"
+accent: "#faff69"
+surface: "#141414"
+border: "rgba(65, 65, 65, 0.8)"
+neutral: "#a0a0a0"
+accent2: "#166534"
+
+colors:
+  - "#000000"
+  - "#ffffff"
+  - "#faff69"
+  - "#141414"
+  - "#a0a0a0"
+  - "#166534"
+
+font: "Inter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 700
+headingSpacing: "1.4px"
+
+btnRadius: "4px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.1) 0px 1px 3px, rgba(0,0,0,0.1) 0px 1px 2px -1px"
+btnColor: "#151515"
+
+tags:
+  - "终端原生"
+  - "冷工程美学"

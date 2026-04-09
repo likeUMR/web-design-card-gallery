@@ -1,0 +1,36 @@
+id: cal
+name: Cal.com
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#ffffff"
+text: "#242424"
+accent: "#0099ff"
+surface: "#f5f5f5"
+border: "rgba(34, 42, 53, 0.08)"
+neutral: "#898989"
+accent2: "#3b82f6"
+
+colors:
+  - "#ffffff"
+  - "#242424"
+  - "#0099ff"
+  - "#f5f5f5"
+  - "#898989"
+  - "#3b82f6"
+
+font: "Cal Sans, Inter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 600
+headingSpacing: "0px"
+
+btnRadius: "8px"
+boxRadius: "12px"
+shadow: "rgba(19, 19, 22, 0.7) 0px 1px 5px -4px, rgba(34, 42, 53, 0.08) 0px 0px 0px 1px, rgba(34, 42, 53, 0.05) 0px 4px 8px 0px"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

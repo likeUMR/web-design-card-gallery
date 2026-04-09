@@ -1,0 +1,36 @@
+id: ibm
+name: IBM
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#ffffff"
+text: "#161616"
+accent: "#0f62fe"
+surface: "#f4f4f4"
+border: "#c6c6c6"
+neutral: "#525252"
+accent2: "#da1e28"
+
+colors:
+  - "#ffffff"
+  - "#161616"
+  - "#0f62fe"
+  - "#f4f4f4"
+  - "#525252"
+  - "#da1e28"
+
+font: "IBM Plex Sans"
+fontProxy: "'IBM Plex Sans', sans-serif"
+headingWeight: 300
+headingSpacing: "0px"
+
+btnRadius: "0px"
+boxRadius: "0px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

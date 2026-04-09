@@ -1,0 +1,36 @@
+id: apple
+name: Apple
+category: 电子科技
+filterGroup: consumer
+
+theme: dark
+
+bg: "#000000"
+text: "#ffffff"
+accent: "#0071e3"
+surface: "#272729"
+border: "none"
+neutral: "rgba(255, 255, 255, 0.8)"
+accent2: "#2997ff"
+
+colors:
+  - "#000000"
+  - "#ffffff"
+  - "#0071e3"
+  - "#272729"
+  - "rgba(255, 255, 255, 0.8)"
+  - "#2997ff"
+
+font: "SF Pro Display, SF Pro Text"
+fontProxy: "'SF Pro', system-ui"
+headingWeight: 600
+headingSpacing: "-0.28px"
+
+btnRadius: "8px"
+boxRadius: "8px"
+shadow: "rgba(0, 0, 0, 0.22) 3px 5px 30px 0px"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "戏剧张力"

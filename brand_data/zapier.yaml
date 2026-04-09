@@ -1,0 +1,36 @@
+id: zapier
+name: Zapier
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#fffefb"
+text: "#201515"
+accent: "#ff4f00"
+surface: "#eceae3"
+border: "#c5c0b1"
+neutral: "#939084"
+accent2: "#36342e"
+
+colors:
+  - "#fffefb"
+  - "#201515"
+  - "#ff4f00"
+  - "#eceae3"
+  - "#939084"
+  - "#36342e"
+
+font: "Degular Display, Inter, GT Alpina"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 500
+headingSpacing: "-1px"
+
+btnRadius: "4px"
+boxRadius: "5px"
+shadow: "none"
+btnColor: "#fffefb"
+
+tags:
+  - "暖系工艺"
+  - "开放社区感"

@@ -1,0 +1,36 @@
+id: ferrari
+name: Ferrari
+category: 电动汽车
+filterGroup: auto
+
+theme: dark
+
+bg: "#000000"
+text: "#FFFFFF"
+accent: "#DA291C"
+surface: "#303030"
+border: "#CCCCCC"
+neutral: "#8F8F8F"
+accent2: "#FFF200"
+
+colors:
+  - "#000000"
+  - "#FFFFFF"
+  - "#DA291C"
+  - "#303030"
+  - "#8F8F8F"
+  - "#FFF200"
+
+font: "FerrariSans"
+fontProxy: "'Arial', sans-serif"
+headingWeight: 500
+headingSpacing: "-1.4px"
+
+btnRadius: "2px"
+boxRadius: "2px"
+shadow: "none"
+btnColor: "#FFFFFF"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

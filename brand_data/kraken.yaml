@@ -1,0 +1,36 @@
+id: kraken
+name: Kraken
+category: 金融科技
+filterGroup: fin
+
+theme: light
+
+bg: "#ffffff"
+text: "#101114"
+accent: "#7132f5"
+surface: "#ffffff"
+border: "#dedee5"
+neutral: "#9497a9"
+accent2: "#149e61"
+
+colors:
+  - "#ffffff"
+  - "#101114"
+  - "#7132f5"
+  - "#ffffff"
+  - "#9497a9"
+  - "#149e61"
+
+font: "Kraken-Brand, Kraken-Product"
+fontProxy: "'IBM Plex Sans', sans-serif"
+headingWeight: 700
+headingSpacing: "-1px"
+
+btnRadius: "12px"
+boxRadius: "12px"
+shadow: "rgba(0,0,0,0.03) 0px 4px 24px"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

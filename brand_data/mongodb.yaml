@@ -1,0 +1,36 @@
+id: mongodb
+name: MongoDB
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#001e2b"
+text: "#ffffff"
+accent: "#00ed64"
+surface: "#1c2d38"
+border: "#3d4f58"
+neutral: "#5c6c75"
+accent2: "#006cfa"
+
+colors:
+  - "#001e2b"
+  - "#ffffff"
+  - "#00ed64"
+  - "#1c2d38"
+  - "#5c6c75"
+  - "#006cfa"
+
+font: "MongoDB Value Serif, Euclid Circular A, Source Code Pro"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-1.4px"
+
+btnRadius: "100px"
+boxRadius: "16px"
+shadow: "rgba(0, 30, 43, 0.12) 0px 26px 44px, rgba(0, 0, 0, 0.13) 0px 7px 13px"
+btnColor: "#000000"
+
+tags:
+  - "冷工程美学"
+  - "终端原生"

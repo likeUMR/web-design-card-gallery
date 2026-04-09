@@ -1,0 +1,36 @@
+id: voltagent
+name: VoltAgent
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#050507"
+text: "#f2f2f2"
+accent: "#00d992"
+surface: "#101010"
+border: "#3d3a39"
+neutral: "#8b949e"
+accent2: "#2fd6a1"
+
+colors:
+  - "#050507"
+  - "#f2f2f2"
+  - "#00d992"
+  - "#101010"
+  - "#8b949e"
+  - "#2fd6a1"
+
+font: "system-ui, Inter, SFMono-Regular"
+fontProxy: "system-ui"
+headingWeight: 400
+headingSpacing: "-0.65px"
+
+btnRadius: "6px"
+boxRadius: "8px"
+shadow: "rgba(92, 88, 85, 0.2) 0px 0px 15px"
+btnColor: "#2fd6a1"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

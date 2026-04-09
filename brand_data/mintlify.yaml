@@ -1,0 +1,35 @@
+id: mintlify
+name: Mintlify
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#ffffff"
+text: "#0d0d0d"
+accent: "#18E299"
+surface: "#ffffff"
+border: "rgba(0,0,0,0.05)"
+neutral: "#666666"
+accent2: "#0fa76e"
+
+colors:
+  - "#ffffff"
+  - "#0d0d0d"
+  - "#18E299"
+  - "#ffffff"
+  - "#666666"
+  - "#0fa76e"
+
+font: "Inter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 600
+headingSpacing: "-1.28px"
+btnRadius: "9999px"
+boxRadius: "16px"
+shadow: "rgba(0,0,0,0.03) 0px 2px 4px"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

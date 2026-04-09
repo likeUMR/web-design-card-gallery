@@ -1,0 +1,36 @@
+id: clay
+name: Clay
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#faf9f7"
+text: "#000000"
+accent: "#078a52"
+surface: "#ffffff"
+border: "#dad4c8"
+neutral: "#9f9b93"
+accent2: "#3bd3fd"
+
+colors:
+  - "#faf9f7"
+  - "#000000"
+  - "#078a52"
+  - "#ffffff"
+  - "#9f9b93"
+  - "#3bd3fd"
+
+font: "Roobert"
+fontProxy: "'Arial', sans-serif"
+headingWeight: 600
+headingSpacing: "-3.2px"
+
+btnRadius: "40px"
+boxRadius: "24px"
+shadow: "rgba(0,0,0,0.1) 0px 1px 1px, rgba(0,0,0,0.04) 0px -1px 1px inset, rgba(0,0,0,0.05) 0px -0.5px 1px"
+btnColor: "#000000"
+
+tags:
+  - "暖系工艺"
+  - "开放社区感"

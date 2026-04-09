@@ -1,0 +1,36 @@
+id: vercel
+name: Vercel
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#ffffff"
+text: "#171717"
+accent: "#171717"
+surface: "#ffffff"
+border: "rgba(0, 0, 0, 0.08)"
+neutral: "#4d4d4d"
+accent2: "#0072f5"
+
+colors:
+  - "#ffffff"
+  - "#171717"
+  - "#171717"
+  - "#ffffff"
+  - "#4d4d4d"
+  - "#0072f5"
+
+font: "Geist"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 600
+headingSpacing: "-2.4px"
+
+btnRadius: "6px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.08) 0px 0px 0px 1px, rgba(0,0,0,0.04) 0px 2px 2px"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

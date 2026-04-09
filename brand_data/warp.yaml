@@ -1,0 +1,36 @@
+id: warp
+name: Warp
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#353534"
+text: "#faf9f6"
+accent: "#afaeac"
+surface: "#353534"
+border: "rgba(226, 226, 226, 0.35)"
+neutral: "#868584"
+accent2: "#666469"
+
+colors:
+  - "#353534"
+  - "#faf9f6"
+  - "#afaeac"
+  - "#353534"
+  - "#868584"
+  - "#666469"
+
+font: "Matter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-2.4px"
+
+btnRadius: "50px"
+boxRadius: "12px"
+shadow: "none"
+btnColor: "#afaeac"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

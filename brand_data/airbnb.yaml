@@ -1,0 +1,36 @@
+id: airbnb
+name: Airbnb
+category: 旅游服务
+filterGroup: consumer
+
+theme: light
+
+bg: "#ffffff"
+text: "#222222"
+accent: "#ff385c"
+surface: "#f2f2f2"
+border: "#c1c1c1"
+neutral: "#6a6a6a"
+accent2: "#460479"
+
+colors:
+  - "#ffffff"
+  - "#222222"
+  - "#ff385c"
+  - "#f2f2f2"
+  - "#6a6a6a"
+  - "#460479"
+
+font: "Airbnb Cereal VF"
+fontProxy: "'Circular', -apple-system, system-ui, Roboto, 'Helvetica Neue', sans-serif"
+headingWeight: 600
+headingSpacing: "-0.44px"
+
+btnRadius: "8px"
+boxRadius: "20px"
+shadow: "rgba(0,0,0,0.02) 0px 0px 0px 1px, rgba(0,0,0,0.04) 0px 2px 6px, rgba(0,0,0,0.1) 0px 4px 8px"
+btnColor: "#ffffff"
+
+tags:
+  - "暖系工艺"
+  - "摄影主导"

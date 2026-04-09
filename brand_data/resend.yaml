@@ -1,0 +1,36 @@
+id: resend
+name: Resend
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#000000"
+text: "#f0f0f0"
+accent: "#ff801f"
+surface: "rgba(214, 235, 253, 0.19)"
+border: "rgba(214, 235, 253, 0.19)"
+neutral: "#a1a4a5"
+accent2: "#3b9eff"
+
+colors:
+  - "#000000"
+  - "#f0f0f0"
+  - "#ff801f"
+  - "rgba(214, 235, 253, 0.19)"
+  - "#a1a4a5"
+  - "#3b9eff"
+
+font: "Domaine Display, ABC Favorit, Inter, Commit Mono"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-2.8px"
+
+btnRadius: "9999px"
+boxRadius: "16px"
+shadow: "rgba(176, 199, 217, 0.145) 0px 0px 0px 1px"
+btnColor: "#f0f0f0"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

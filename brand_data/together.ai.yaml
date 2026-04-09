@@ -1,0 +1,36 @@
+id: together.ai
+name: Together AI
+category: AI平台
+filterGroup: AI
+
+theme: light
+
+bg: "#ffffff"
+text: "#000000"
+accent: "#ef2cc1"
+surface: "rgba(0, 0, 0, 0.04)"
+border: "rgba(0, 0, 0, 0.08)"
+neutral: "rgba(0, 0, 0, 0.4)"
+accent2: "#fc4c02"
+
+colors:
+  - "#ffffff"
+  - "#000000"
+  - "#ef2cc1"
+  - "rgba(0, 0, 0, 0.04)"
+  - "rgba(0, 0, 0, 0.4)"
+  - "#fc4c02"
+
+font: "The Future"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 500
+headingSpacing: "-1.92px"
+
+btnRadius: "4px"
+boxRadius: "8px"
+shadow: "rgba(1, 1, 32, 0.1) 0px 4px 10px"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

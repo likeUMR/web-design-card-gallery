@@ -1,0 +1,36 @@
+id: bmw
+name: BMW
+category: 电动汽车
+filterGroup: auto
+
+theme: light
+
+bg: "#ffffff"
+text: "#262626"
+accent: "#1c69d4"
+surface: "#ffffff"
+border: "#bbbbbb"
+neutral: "#757575"
+accent2: "#0653b6"
+
+colors:
+  - "#ffffff"
+  - "#262626"
+  - "#1c69d4"
+  - "#ffffff"
+  - "#757575"
+  - "#0653b6"
+
+font: "BMWTypeNextLatin"
+fontProxy: "'Helvetica', 'Arial', sans-serif"
+headingWeight: 300
+headingSpacing: "-1.4px"
+
+btnRadius: "0px"
+boxRadius: "0px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

@@ -1,0 +1,36 @@
+id: runwayml
+name: Runway ML
+category: AI平台
+filterGroup: AI
+
+theme: dark
+
+bg: "#000000"
+text: "#ffffff"
+accent: "#ffffff"
+surface: "#1a1a1a"
+border: "#27272a"
+neutral: "#767d88"
+accent2: "#c9ccd1"
+
+colors:
+  - "#000000"
+  - "#ffffff"
+  - "#ffffff"
+  - "#1a1a1a"
+  - "#767d88"
+  - "#c9ccd1"
+
+font: "abcNormal"
+fontProxy: "'abcNormal Fallback', sans-serif"
+headingWeight: 400
+headingSpacing: "-1.2px"
+
+btnRadius: "4px"
+boxRadius: "8px"
+shadow: "none"
+btnColor: "#000000"
+
+tags:
+  - "冷工程美学"
+  - "戏剧张力"

@@ -1,0 +1,36 @@
+id: intercom
+name: Intercom
+category: 开发工具
+filterGroup: saas
+
+theme: light
+
+bg: "#faf9f6"
+text: "#111111"
+accent: "#ff5600"
+surface: "#ffffff"
+border: "#dedbd6"
+neutral: "#7b7b78"
+accent2: "#0007cb"
+
+colors:
+  - "#faf9f6"
+  - "#111111"
+  - "#ff5600"
+  - "#ffffff"
+  - "#7b7b78"
+  - "#0007cb"
+
+font: "Saans"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-2.4px"
+
+btnRadius: "4px"
+boxRadius: "8px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "暖系工艺"
+  - "极简禅意"

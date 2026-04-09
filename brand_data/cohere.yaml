@@ -1,0 +1,36 @@
+id: cohere
+name: Cohere
+category: AI平台
+filterGroup: AI
+
+theme: light
+
+bg: "#ffffff"
+text: "#000000"
+accent: "#1863dc"
+surface: "#fafafa"
+border: "#d9d9dd"
+neutral: "#93939f"
+accent2: "#9b60aa"
+
+colors:
+  - "#ffffff"
+  - "#000000"
+  - "#1863dc"
+  - "#fafafa"
+  - "#93939f"
+  - "#9b60aa"
+
+font: "CohereText, Unica77 Cohere Web"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-1.44px"
+
+btnRadius: "9999px"
+boxRadius: "22px"
+shadow: "none"
+btnColor: "#000000"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

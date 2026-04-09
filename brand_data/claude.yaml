@@ -1,0 +1,36 @@
+id: claude
+name: Claude
+category: AI平台
+filterGroup: AI
+
+theme: light
+
+bg: "#f5f4ed"
+text: "#141413"
+accent: "#c96442"
+surface: "#faf9f5"
+border: "#f0eee6"
+neutral: "#5e5d59"
+accent2: "#d97757"
+
+colors:
+  - "#f5f4ed"
+  - "#141413"
+  - "#c96442"
+  - "#faf9f5"
+  - "#5e5d59"
+  - "#d97757"
+
+font: "Anthropic Serif, Anthropic Sans"
+fontProxy: "Georgia, serif"
+headingWeight: 500
+headingSpacing: "normal"
+
+btnRadius: "12px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.05) 0px 4px 24px"
+btnColor: "#faf9f5"
+
+tags:
+  - "暖系工艺"
+  - "印刷排版感"

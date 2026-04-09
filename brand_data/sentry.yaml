@@ -1,0 +1,36 @@
+id: sentry
+name: Sentry
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#1f1633"
+text: "#ffffff"
+accent: "#6a5fc1"
+surface: "#422082"
+border: "#362d59"
+neutral: "#e5e7eb"
+accent2: "#c2ef4e"
+
+colors:
+  - "#1f1633"
+  - "#ffffff"
+  - "#6a5fc1"
+  - "#422082"
+  - "#e5e7eb"
+  - "#c2ef4e"
+
+font: "Dammit Sans, Rubik"
+fontProxy: "'Rubik', system-ui"
+headingWeight: 700
+headingSpacing: "-0.2px"
+
+btnRadius: "13px"
+boxRadius: "8px"
+shadow: "rgba(0, 0, 0, 0.1) 0px 10px 15px -3px"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "终端原生"

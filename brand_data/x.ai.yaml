@@ -1,0 +1,36 @@
+id: x.ai
+name: xAI
+category: AI平台
+filterGroup: AI
+
+theme: dark
+
+bg: "#1f2228"
+text: "#ffffff"
+accent: "#ffffff"
+surface: "rgba(255, 255, 255, 0.05)"
+border: "rgba(255, 255, 255, 0.1)"
+neutral: "rgba(255, 255, 255, 0.5)"
+accent2: "rgb(59, 130, 246)"
+
+colors:
+  - "#1f2228"
+  - "#ffffff"
+  - "#ffffff"
+  - "rgba(255, 255, 255, 0.05)"
+  - "rgba(255, 255, 255, 0.5)"
+  - "rgb(59, 130, 246)"
+
+font: "GeistMono, universalSans"
+fontProxy: "'GeistMono', monospace"
+headingWeight: 300
+headingSpacing: "1.4px"
+
+btnRadius: "0px"
+boxRadius: "0px"
+shadow: "none"
+btnColor: "#1f2228"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

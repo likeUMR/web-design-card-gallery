@@ -1,0 +1,36 @@
+id: wise
+name: Wise
+category: 金融科技
+filterGroup: fin
+
+theme: light
+
+bg: "#ffffff"
+text: "#0e0f0c"
+accent: "#9fe870"
+surface: "#e2f6d5"
+border: "rgba(14,15,12,0.12)"
+neutral: "#868685"
+accent2: "#163300"
+
+colors:
+  - "#ffffff"
+  - "#0e0f0c"
+  - "#9fe870"
+  - "#e2f6d5"
+  - "#868685"
+  - "#163300"
+
+font: "Wise Sans, Inter"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 900
+headingSpacing: "-1.4px"
+
+btnRadius: "9999px"
+boxRadius: "30px"
+shadow: "rgba(14,15,12,0.12) 0px 0px 0px 1px"
+btnColor: "#163300"
+
+tags:
+  - "开放社区感"
+  - "极简禅意"

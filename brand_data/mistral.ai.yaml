@@ -1,0 +1,36 @@
+id: mistral.ai
+name: Mistral AI
+category: AI平台
+filterGroup: AI
+
+theme: light
+
+bg: "#fffaeb"
+text: "#1f1f1f"
+accent: "#fa520f"
+surface: "#fff0c2"
+border: "hsl(240, 5.9%, 90%)"
+neutral: "hsl(0, 0%, 24%)"
+accent2: "#ffa110"
+
+colors:
+  - "#fffaeb"
+  - "#1f1f1f"
+  - "#fa520f"
+  - "#fff0c2"
+  - "hsl(0, 0%, 24%)"
+  - "#ffa110"
+
+font: "Arial"
+fontProxy: "ui-sans-serif, system-ui, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji"
+headingWeight: 400
+headingSpacing: "-2.05px"
+
+btnRadius: "0px"
+boxRadius: "0px"
+shadow: "rgba(127, 99, 21, 0.12) -8px 16px 39px, rgba(127, 99, 21, 0.1) -33px 64px 72px"
+btnColor: "#ffffff"
+
+tags:
+  - "暖系工艺"
+  - "极简禅意"

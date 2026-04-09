@@ -1,0 +1,36 @@
+id: lovable
+name: Lovable
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#f7f4ed"
+text: "#1c1c1c"
+accent: "#1c1c1c"
+surface: "#f7f4ed"
+border: "#eceae4"
+neutral: "#5f5f5d"
+accent2: "#3b82f6"
+
+colors:
+  - "#f7f4ed"
+  - "#1c1c1c"
+  - "#1c1c1c"
+  - "#f7f4ed"
+  - "#5f5f5d"
+  - "#3b82f6"
+
+font: "Camera Plain Variable"
+fontProxy: "ui-sans-serif, system-ui"
+headingWeight: 600
+headingSpacing: "-1.2px"
+
+btnRadius: "6px"
+boxRadius: "12px"
+shadow: "rgba(0,0,0,0.1) 0px 4px 12px"
+btnColor: "#fcfbf8"
+
+tags:
+  - "暖系工艺"
+  - "极简禅意"

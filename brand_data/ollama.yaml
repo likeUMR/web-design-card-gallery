@@ -1,0 +1,36 @@
+id: ollama
+name: Ollama
+category: AI平台
+filterGroup: AI
+
+theme: light
+
+bg: "#ffffff"
+text: "#000000"
+accent: "#000000"
+surface: "#e5e5e5"
+border: "#e5e5e5"
+neutral: "#737373"
+accent2: "#3b82f6"
+
+colors:
+  - "#ffffff"
+  - "#000000"
+  - "#000000"
+  - "#e5e5e5"
+  - "#737373"
+  - "#3b82f6"
+
+font: "SF Pro Rounded"
+fontProxy: "system-ui, -apple-system, system-ui"
+headingWeight: 500
+headingSpacing: "normal"
+
+btnRadius: "9999px"
+boxRadius: "12px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "终端原生"

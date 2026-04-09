@@ -1,0 +1,36 @@
+id: uber
+name: Uber
+category: 交通出行
+filterGroup: consumer
+
+theme: light
+
+bg: "#ffffff"
+text: "#000000"
+accent: "#000000"
+surface: "#efefef"
+border: "#000000"
+neutral: "#4b4b4b"
+accent2: "#0000ee"
+
+colors:
+  - "#ffffff"
+  - "#000000"
+  - "#000000"
+  - "#efefef"
+  - "#4b4b4b"
+  - "#0000ee"
+
+font: "UberMove, UberMoveText"
+fontProxy: "system-ui, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+headingWeight: 700
+headingSpacing: "-1.4px"
+
+btnRadius: "999px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.12) 0px 4px 16px"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

@@ -1,0 +1,36 @@
+id: coinbase
+name: Coinbase
+category: 金融科技
+filterGroup: fin
+
+theme: light
+
+bg: "#ffffff"
+text: "#0a0b0d"
+accent: "#0052ff"
+surface: "#eef0f3"
+border: "rgba(91,97,110,0.2)"
+neutral: "#5b616e"
+accent2: "#578bfa"
+
+colors:
+  - "#ffffff"
+  - "#0a0b0d"
+  - "#0052ff"
+  - "#eef0f3"
+  - "#5b616e"
+  - "#578bfa"
+
+font: "CoinbaseDisplay, CoinbaseSans, CoinbaseText"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-1.4px"
+
+btnRadius: "56px"
+boxRadius: "8px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

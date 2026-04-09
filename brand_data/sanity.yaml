@@ -1,0 +1,36 @@
+id: sanity
+name: Sanity
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#0b0b0b"
+text: "#ffffff"
+accent: "#f36458"
+surface: "#212121"
+border: "#353535"
+neutral: "#b9b9b9"
+accent2: "#0052ef"
+
+colors:
+  - "#0b0b0b"
+  - "#ffffff"
+  - "#f36458"
+  - "#212121"
+  - "#b9b9b9"
+  - "#0052ef"
+
+font: "waldenburgNormal"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-1.68px"
+
+btnRadius: "9999px"
+boxRadius: "6px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

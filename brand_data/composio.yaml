@@ -1,0 +1,36 @@
+id: composio
+name: Composio
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#0f0f0f"
+text: "#ffffff"
+accent: "#0007cd"
+surface: "#000000"
+border: "rgba(255,255,255,0.10)"
+neutral: "rgba(255,255,255,0.6)"
+accent2: "#00ffff"
+
+colors:
+  - "#0f0f0f"
+  - "#ffffff"
+  - "#0007cd"
+  - "#000000"
+  - "rgba(255,255,255,0.6)"
+  - "#00ffff"
+
+font: "abcDiatype, JetBrains Mono"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "normal"
+
+btnRadius: "4px"
+boxRadius: "4px"
+shadow: "rgba(0,0,0,0.15) 4px 4px 0px 0px"
+btnColor: "#000000"
+
+tags:
+  - "冷工程美学"
+  - "终端原生"

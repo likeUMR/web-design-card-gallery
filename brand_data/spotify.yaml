@@ -1,0 +1,36 @@
+id: spotify
+name: Spotify
+category: 音乐流媒体
+filterGroup: consumer
+
+theme: dark
+
+bg: "#121212"
+text: "#ffffff"
+accent: "#1ed760"
+surface: "#181818"
+border: "#4d4d4d"
+neutral: "#b3b3b3"
+accent2: "#539df5"
+
+colors:
+  - "#121212"
+  - "#ffffff"
+  - "#1ed760"
+  - "#181818"
+  - "#b3b3b3"
+  - "#539df5"
+
+font: "SpotifyMixUI"
+fontProxy: "'Circular', sans-serif"
+headingWeight: 700
+headingSpacing: "1.4px"
+
+btnRadius: "9999px"
+boxRadius: "8px"
+shadow: "rgba(0,0,0,0.5) 0px 8px 24px"
+btnColor: "#000000"
+
+tags:
+  - "冷工程美学"
+  - "极简禅意"

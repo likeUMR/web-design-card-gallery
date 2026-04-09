@@ -1,0 +1,36 @@
+id: supabase
+name: Supabase
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#171717"
+text: "#fafafa"
+accent: "#3ecf8e"
+surface: "#0f0f0f"
+border: "#2e2e2e"
+neutral: "#898989"
+accent2: "#00c573"
+
+colors:
+  - "#171717"
+  - "#fafafa"
+  - "#3ecf8e"
+  - "#0f0f0f"
+  - "#898989"
+  - "#00c573"
+
+font: "Circular"
+fontProxy: "'Circular', system-ui"
+headingWeight: 400
+headingSpacing: "normal"
+
+btnRadius: "9999px"
+boxRadius: "8px"
+shadow: "none"
+btnColor: "#fafafa"
+
+tags:
+  - "冷工程美学"
+  - "终端原生"

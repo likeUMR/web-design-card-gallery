@@ -1,0 +1,36 @@
+id: renault
+name: Renault
+category: 电动汽车
+filterGroup: auto
+
+theme: light
+
+bg: "#FFFFFF"
+text: "#000000"
+accent: "#EFDF00"
+surface: "#F2F2F2"
+border: "#D1D1D1"
+neutral: "#D9D9D6"
+accent2: "#1883FD"
+
+colors:
+  - "#FFFFFF"
+  - "#000000"
+  - "#EFDF00"
+  - "#F2F2F2"
+  - "#D9D9D6"
+  - "#1883FD"
+
+font: "NouvelR"
+fontProxy: "'NouvelR', sans-serif"
+headingWeight: 700
+headingSpacing: "normal"
+
+btnRadius: "0px"
+boxRadius: "0px"
+shadow: "rgba(0,0,0,0.2) 0px 4px 8px"
+btnColor: "#000000"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

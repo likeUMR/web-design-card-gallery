@@ -1,0 +1,36 @@
+id: miro
+name: Miro
+category: 协作工具
+filterGroup: saas
+
+theme: light
+
+bg: "#ffffff"
+text: "#1c1c1e"
+accent: "#5b76fe"
+surface: "#fde0f0"
+border: "#c7cad5"
+neutral: "#555a6a"
+accent2: "#00b473"
+
+colors:
+  - "#ffffff"
+  - "#1c1c1e"
+  - "#5b76fe"
+  - "#fde0f0"
+  - "#555a6a"
+  - "#00b473"
+
+font: "Roobert PRO, Noto Sans"
+fontProxy: "'Roobert PRO', sans-serif"
+headingWeight: 400
+headingSpacing: "-1.68px"
+
+btnRadius: "8px"
+boxRadius: "12px"
+shadow: "rgb(224,226,232) 0px 0px 0px 1px"
+btnColor: "#ffffff"
+
+tags:
+  - "开放社区感"
+  - "极简禅意"

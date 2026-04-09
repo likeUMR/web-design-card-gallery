@@ -1,0 +1,36 @@
+id: figma
+name: Figma
+category: 开发工具
+filterGroup: dev
+
+theme: light
+
+bg: "#ffffff"
+text: "#000000"
+accent: "#000000"
+surface: "#ffffff"
+border: "rgba(0, 0, 0, 0.08)"
+neutral: "rgba(0, 0, 0, 0.6)"
+accent2: "#000000"
+
+colors:
+  - "#ffffff"
+  - "#000000"
+  - "#000000"
+  - "#ffffff"
+  - "rgba(0, 0, 0, 0.6)"
+  - "#000000"
+
+font: "figmaSans"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 400
+headingSpacing: "-1.4px"
+
+btnRadius: "50px"
+boxRadius: "8px"
+shadow: "none"
+btnColor: "#ffffff"
+
+tags:
+  - "极简禅意"
+  - "开放社区感"

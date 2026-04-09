@@ -1,0 +1,36 @@
+id: tesla
+name: Tesla
+category: 电动汽车
+filterGroup: auto
+
+theme: light
+
+bg: "#FFFFFF"
+text: "#171A20"
+accent: "#3E6AE1"
+surface: "#F4F4F4"
+border: "#EEEEEE"
+neutral: "#5C5E62"
+accent2: "#3E6AE1"
+
+colors:
+  - "#FFFFFF"
+  - "#171A20"
+  - "#3E6AE1"
+  - "#F4F4F4"
+  - "#5C5E62"
+  - "#3E6AE1"
+
+font: "Universal Sans"
+fontProxy: "'Inter', sans-serif"
+headingWeight: 500
+headingSpacing: "normal"
+
+btnRadius: "4px"
+boxRadius: "12px"
+shadow: "none"
+btnColor: "#FFFFFF"
+
+tags:
+  - "极简禅意"
+  - "冷工程美学"

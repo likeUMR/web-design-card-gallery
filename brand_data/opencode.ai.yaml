@@ -1,0 +1,36 @@
+id: opencode.ai
+name: OpenCode
+category: 开发工具
+filterGroup: dev
+
+theme: dark
+
+bg: "#201d1d"
+text: "#fdfcfc"
+accent: "#007aff"
+surface: "#302c2c"
+border: "rgba(15, 0, 0, 0.12)"
+neutral: "#9a9898"
+accent2: "#30d158"
+
+colors:
+  - "#201d1d"
+  - "#fdfcfc"
+  - "#007aff"
+  - "#302c2c"
+  - "#9a9898"
+  - "#30d158"
+
+font: "Berkeley Mono"
+fontProxy: "'IBM Plex Mono', ui-monospace, monospace"
+headingWeight: 700
+headingSpacing: "-1.4px"
+
+btnRadius: "4px"
+boxRadius: "4px"
+shadow: "none"
+btnColor: "#fdfcfc"
+
+tags:
+  - "终端原生"
+  - "极简禅意"
