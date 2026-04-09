@@ -239,9 +239,7 @@ def build_html(brands: list) -> str:
         theme_counts[t] = theme_counts.get(t, 0) + 1
 
     def filter_btn(key, label, extra_class=""):
-        count = group_counts.get(key, theme_counts.get(key, 0))
-        suffix = f" ({count})" if count else ""
-        return f'<button class="filter-btn{" " + extra_class if extra_class else ""}" data-filter="{key}">{label}{suffix}</button>'
+        return f'<button class="filter-btn{" " + extra_class if extra_class else ""}" data-filter="{key}">{label}</button>'
 
     filter_btns = "\n    ".join([
         filter_btn("light",    f"浅色 ({theme_counts.get('light',0)})"),

@@ -5,6 +5,9 @@ __pycache__/
 .env
 *.egg-info/
 
+# Local LLM config (contains API keys — never commit)
+config.py
+
 # LLM extraction errors
 brand_data/*.error.txt
 

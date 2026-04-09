@@ -17,10 +17,17 @@ import yaml
 from pathlib import Path
 from openai import OpenAI
 
-# ── 配置 ───────────────────────────────────────────────────────────────────────
-BASE_URL = os.getenv("LLM_BASE_URL", "")
-MODEL    = "gemini-3-flash-preview"
-API_KEY  = os.getenv("LLM_TOKEN", "")        # set env var LLM_TOKEN before running
+# ── 配置：优先读取 config.py，回退到环境变量 ────────────────────────────────────
+try:
+    import config as _cfg
+    BASE_URL = _cfg.LLM_BASE_URL
+    MODEL    = _cfg.LLM_MODEL
+    API_KEY  = _cfg.LLM_TOKEN
+except ImportError:
+    # config.py 不存在时回退到环境变量
+    BASE_URL = os.getenv("LLM_BASE_URL", "")
+    MODEL    = os.getenv("LLM_MODEL", "gemini-3-flash-preview")
+    API_KEY  = os.getenv("LLM_TOKEN", "")
 
 # Windows 控制台 UTF-8 输出
 import sys as _sys
