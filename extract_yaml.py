@@ -20,7 +20,7 @@ from openai import OpenAI
 # ── 配置 ───────────────────────────────────────────────────────────────────────
 BASE_URL = os.getenv("LLM_BASE_URL", "")
 MODEL    = "gemini-3-flash-preview"
-API_KEY  = os.getenv("LLM_TOKEN", "")   # set env var LLM_TOKEN before running   # set env var LLM_TOKEN before running
+API_KEY  = os.getenv("LLM_TOKEN", "")        # set env var LLM_TOKEN before running
 
 # Windows 控制台 UTF-8 输出
 import sys as _sys
