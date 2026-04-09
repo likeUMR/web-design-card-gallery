@@ -6,6 +6,8 @@
 
 ![gallery preview](https://img.shields.io/badge/brands-58-blue) ![license](https://img.shields.io/badge/license-MIT-green)
 
+[![Demo Screenshot](demo.png)](https://likeumr.github.io/web-design-card-gallery/)
+
 ## 功能
 
 - 🎨 **58 个品牌**色卡，覆盖 AI、开发工具、金融科技、汽车、SaaS、消费等行业
